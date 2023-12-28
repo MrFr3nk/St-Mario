@@ -1,6 +1,6 @@
 const sessionName = "session";
 const donet = "https://github.com/mrjuice01t";
-const owner = ["263780699988"]; // Put your number here ex: ["91xxxxxxxxx"]
+const owner = ["263719647303"]; // Put your number here ex: ["91xxxxxxxxx"]
 const {
   default: goutamConnect,
   useMultiFileAuthState,
